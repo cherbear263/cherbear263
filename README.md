@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cheryl
 - 👀 I’m interested in making web apps
-- 🌱 I’m currently learning front end development with Vue
+- 🌱 At the moment I love using Nuxt and Strapi
 - 💞️ I’m interested in collaborating... get in touch!
 
 <!---
